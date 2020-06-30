@@ -1,7 +1,6 @@
-# DataViz-P3
-Linked View
+# Linked View Graphs
 
-Creates a sketch with 1200x700 resolution that will load the given data file and display a bar chart, line chart, scatterplot, scatterplot matrix, and a parallel coordinate plot all on the same sketch. (the data set is in the folder "data".)
+Creates a sketch with 1200x700 resolution that will load the given data file and display a bar chart, line chart, scatterplot, scatterplot matrix, and a parallel coordinate plot all on the same sketch and in a linked view. (the data set is in the folder "data".)
 
 This project was done using Processing, so if you want to run:
 
