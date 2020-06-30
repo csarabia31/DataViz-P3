@@ -8,7 +8,7 @@ This project was done using Processing, so if you want to run:
     -Download Files and open using Processing
     -click run
 
-If you want to see screenshots of what the output looks like, go to folder "Screenshots".
+If you want to see a GIF demonstration of what the output looks like, go to folder "GIF".
 
 # Project By: Camilo Sarabia
 ## Skeleton Code By: Dr. Paul Rosen
